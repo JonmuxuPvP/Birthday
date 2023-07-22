@@ -48,7 +48,7 @@ for (const input of inputs) {
 
                 if (typedCode == code) {
                     main.innerHTML = "";
-                    new Audio("./assets/happy-birthday.wav").play();
+                    new Audio("./assets/happybdaylorenzo.mp3").play();
                     setTimeout((ignored) => {
                         const h1 = document.createElement("h1");
                         h1.innerText = "Happy Birthday Lorenzo :3"
